@@ -10,7 +10,7 @@ params:
     nav_links:
       - type: action
         template: action
-        label: Services
+        label: Industries
         url: /features
         style: link
       - type: action
