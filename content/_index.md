@@ -88,7 +88,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Discover how to transform your data into valuable insights
-    subtitle: 'Get in touch for a free 30 minute call '
+    subtitle: 'Get in touch for a free 30 minute call to '
     actions:
       - type: action
         template: action
