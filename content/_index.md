@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Data Science Consulting
-    subtitle: 'We provide end-to-end '
+    subtitle: 'We provide end-to-end solutions from '
     actions:
       - type: action
         template: action
