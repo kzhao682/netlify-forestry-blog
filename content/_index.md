@@ -30,7 +30,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     template: features_section
-    title: Services
+    title: Industries
     features:
       - type: feature
         template: feature
