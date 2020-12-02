@@ -43,7 +43,7 @@ sections:
             style: primary
       - type: feature
         template: feature
-        title: Feature 3
+        title: Materials Informatics
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
