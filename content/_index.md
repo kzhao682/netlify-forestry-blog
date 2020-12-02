@@ -6,7 +6,7 @@ sections:
     title: Data Science Consulting
     subtitle: >-
       We provide end-to-end solutions from setting up data pipelines to
-      extracting insights 
+      extracting insights with machine learning and deep learning.
     actions:
       - type: action
         template: action
