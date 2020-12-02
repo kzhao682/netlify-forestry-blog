@@ -3,9 +3,7 @@ title: First Blog Post
 date: '2020-12-02'
 categories: []
 tags: []
-excerpt: >-
-  ## Lorem ipsum This is the first blog of this website. I intend to use it for
-  personal growth and to start own data 
+excerpt: this is a test to see if this works
 layout: post
 author: data/team/person-pa22gywpa.yaml
 ---
