@@ -25,7 +25,6 @@ sections:
     title: Our Team
     team:
       - data/team/miles-tone.json
-      - data/team/dianne-ameter.json
       - data/team/eleanor-carr.json
       - data/team/hanson-deck.json
       - data/team/gordon-norman.json
