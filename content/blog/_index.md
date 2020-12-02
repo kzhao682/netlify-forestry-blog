@@ -9,15 +9,9 @@ sections:
     template: blog_feed_section
     show_recent: false
   - title: First Blog Post
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |-
+      ## New Beginning
+      Had some errors the first time but maybe it will work now.
     type: content_section
     template: content_section
 layout: advanced
