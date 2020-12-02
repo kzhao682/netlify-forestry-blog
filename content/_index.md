@@ -52,8 +52,9 @@ sections:
         template: feature
         title: Energy & Sustainability
         content: >-
-          Solutions cover challenges in new Li-ion battery design, solar energy
-          forecasting, and energy management for a more regenerative world.
+          Our solutions cover challenges in new Li-ion battery design, solar
+          energy forecasting, and energy management for a more regenerative
+          world.
         align: left
         image: images/feature.svg
         image_position: left
