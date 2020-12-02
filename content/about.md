@@ -21,10 +21,5 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
-  - type: team_section
-    template: team_section
-    title: Our Team
-    team:
-      - data/team/miles-tone.json
 layout: advanced
 ---
