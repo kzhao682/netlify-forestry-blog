@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Data Science Consulting
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We provide en
     actions:
       - type: action
         template: action
