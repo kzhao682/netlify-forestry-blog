@@ -5,7 +5,6 @@ sections:
     template: hero_section
     title: Who We Are
     align: center
-    image: /images/diligent-bee.JPG
     actions: []
   - type: content_section
     template: content_section
