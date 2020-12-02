@@ -6,7 +6,7 @@ sections:
     title: Who We Are
     align: center
     actions: []
-    has_background: true
+    has_background: false
     background:
       background_color: white
       background_image_opacity: 0
