@@ -52,8 +52,8 @@ sections:
         template: feature
         title: Energy & Sustainability
         content: >-
-          Extensive projects involving Li-ion batteries, solar energy, and
-          energy efficiency.
+          Solutions cover challenges in new Li-ion battery design, solar energy
+          forecasting, and energy management for a more regenerative world.
         align: left
         image: images/feature.svg
         image_position: left
