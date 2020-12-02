@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Industries
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'We '
     align: center
   - type: features_section
     template: features_section
