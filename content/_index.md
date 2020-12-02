@@ -51,7 +51,9 @@ sections:
       - type: feature
         template: feature
         title: Energy & Sustainability
-        content: ''
+        content: >-
+          Extensive projects involving Li-ion batteries, solar energy, and
+          energy efficiency.
         align: left
         image: images/feature.svg
         image_position: left
