@@ -53,9 +53,9 @@ sections:
         template: feature
         title: Energy & Sustainability
         content: >-
-          We bring deep domain expertise in energy to bring you reliable
-          solutions in new Li-ion battery design, solar energy forecasting, and
-          energy management.
+          Our deep domain expertise in energy brings you reliable solutions in
+          new Li-ion battery design, solar energy forecasting, and energy
+          management.
         align: left
         image: images/feature.svg
         image_position: left
