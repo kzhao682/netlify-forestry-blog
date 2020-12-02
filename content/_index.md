@@ -38,8 +38,8 @@ sections:
         content: >-
           Our solutions leverage the latest technologies in ML / AI for
           predictive modeling and business intelligence. Capabilities include
-          deep learning, time series forecasting, anomaly detection, and image
-          classification.
+          deep learning, time series forecasting, anomaly detection, and
+          computer vision.
         align: left
         image: images/feature.svg
         image_position: right
