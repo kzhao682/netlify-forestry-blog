@@ -3,7 +3,7 @@ title: First Blog Post
 date: '2020-12-02'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: First Blog Post
 layout: post
 author: data/team/person-pa22gywpa.yaml
 ---
