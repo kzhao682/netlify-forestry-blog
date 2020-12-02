@@ -49,4 +49,5 @@ fields:
     default: post
     config:
       required: true
-pages: []
+pages:
+  - content/blog/post-1.md
