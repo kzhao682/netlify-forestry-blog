@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Industries
-    subtitle: 'We '
+    subtitle: 'We help with '
     align: center
   - type: features_section
     template: features_section
