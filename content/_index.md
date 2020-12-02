@@ -94,7 +94,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Book Now
+        label: Contact Us
         url: /contact
         style: primary
     has_background: true
