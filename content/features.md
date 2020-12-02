@@ -13,9 +13,10 @@ sections:
         template: feature
         title: Machine Learning & Artificial Intelligence
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Our solutions leverage the latest technologies in ML / AI for
+          predictive modeling and business intelligence. Capabilities include
+          deep learning, time series forecasting, anomaly detection, and
+          computer vision.
         align: left
         image: images/feature.svg
         image_position: right
