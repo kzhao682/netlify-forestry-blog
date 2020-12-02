@@ -8,4 +8,5 @@ layout: post
 author: data/team/person-pa22gywpa.yaml
 ---
 ## New Beginnings
+
 This is the first blog of this website. I intend to use it for personal growth and to start own data science consultancy. My interests are clean tech and renewable economy.
