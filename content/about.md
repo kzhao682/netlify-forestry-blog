@@ -28,7 +28,8 @@ sections:
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
   - title: lorem-ipsum
-    team: []
+    team:
+      - data/team/person-uo83110nb.yaml
     type: team_section
     template: team_section
 layout: advanced
