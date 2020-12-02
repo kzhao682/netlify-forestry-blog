@@ -26,7 +26,6 @@ sections:
     team:
       - data/team/miles-tone.json
       - data/team/eleanor-carr.json
-      - data/team/hanson-deck.json
       - data/team/gordon-norman.json
   - type: cta_section
     template: cta_section
