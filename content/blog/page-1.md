@@ -3,7 +3,7 @@ title: First Blog Post
 date: '2020-12-02'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: New Blog
 layout: post
 ---
 ## Lorem ipsum
