@@ -27,5 +27,9 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
+  - title: lorem-ipsum
+    team: []
+    type: team_section
+    template: team_section
 layout: advanced
 ---
