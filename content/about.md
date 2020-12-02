@@ -30,7 +30,6 @@ sections:
   - title: lorem-ipsum
     team:
       - data/team/person-uo83110nb.yaml
-      - data/team/person-1o3eat6lz.yaml
       - data/team/person-n6mxwlyvl.yaml
     type: team_section
     template: team_section
