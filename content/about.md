@@ -6,12 +6,7 @@ sections:
     title: Who We Are
     align: center
     image: /images/diligent-bee.JPG
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        type: action
+    actions: []
   - type: content_section
     template: content_section
     content: >-
