@@ -12,7 +12,7 @@ params:
         template: action
         label: Services
         url: /features
-        style: link
+        style: secondary
       - type: action
         template: action
         label: Blog
