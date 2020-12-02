@@ -50,5 +50,4 @@ fields:
     config:
       required: true
 pages:
-  - content/blog/post_1.md
   - content/blog/post-1.md
