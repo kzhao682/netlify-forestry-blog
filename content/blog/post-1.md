@@ -5,6 +5,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 layout: post
+author: data/team/person-pa22gywpa.yaml
 ---
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
