@@ -5,7 +5,7 @@ params:
   header:
     type: header
     template: header
-    title: Kevin Zhao
+    title: Kevin YZhao
     has_nav: true
     nav_links:
       - type: action
