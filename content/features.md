@@ -34,7 +34,7 @@ sections:
           new Li-ion battery design, solar energy forecasting, and energy
           management.
         align: left
-        image: images/feature.svg
+        image: /images/battery(1).png
         image_position: left
         actions:
           - type: action
