@@ -6,6 +6,7 @@ sections:
     title: Who We Are
     align: center
     actions: []
+    has_background: true
   - type: content_section
     template: content_section
     content: >-
