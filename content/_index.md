@@ -73,7 +73,7 @@ sections:
           swapping network in the world brings optimization solutions that
           impact user experience, operation efficiency, and business growth.
         align: left
-        image: /images/electric-scooter.png
+        image: /images/ultra-sloth.png
         image_position: right
         actions:
           - type: action
