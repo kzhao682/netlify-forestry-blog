@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Industries
-    subtitle: We help with all types of mission
+    subtitle: 'We help with all types of social mission driven organizations that '
     align: center
   - type: features_section
     template: features_section
