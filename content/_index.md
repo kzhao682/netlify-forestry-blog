@@ -80,7 +80,7 @@ sections:
     template: cta_section
     title: Discover how to transform your data into valuable insights
     subtitle: >-
-      Get in touch for a free 30 minute call to help us understand any
+      Get in touch for a free 30 minute call to help us understand how any
       challenges you have. 
     actions:
       - type: action
