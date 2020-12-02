@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Style Guide
 layout: page
 ---
 
