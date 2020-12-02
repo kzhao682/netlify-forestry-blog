@@ -13,6 +13,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     image: /images/diligent-comet.JPG
+    image_position: right
   - type: content_section
     template: content_section
     content: >-
