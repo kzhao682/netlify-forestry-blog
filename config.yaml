@@ -48,7 +48,7 @@ params:
       - type: action
         template: action
         label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/kzhao682'
         style: link
         new_window: true
       - type: action
