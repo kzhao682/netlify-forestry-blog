@@ -25,6 +25,5 @@ sections:
     title: Our Team
     team:
       - data/team/miles-tone.json
-      - data/team/eleanor-carr.json
 layout: advanced
 ---
