@@ -35,7 +35,10 @@ sections:
       - type: feature
         template: feature
         title: Machine Learning & Artificial Intelligence
-        content: ''
+        content: >-
+          Leverage the latest technologies in ML / AI for predictive modeling
+          and business intelligence. Capabilities include deep learning, time
+          series forecasting, NLP, and image classification.
         align: left
         image: images/feature.svg
         image_position: right
