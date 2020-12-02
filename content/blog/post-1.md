@@ -8,6 +8,5 @@ layout: post
 author: data/team/person-pa22gywpa.yaml
 ---
 ## Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum
-- dolor sit amet
+This is the first blog of this website. I intend to use it for personal growth and to start own data science consultancy. My interests are clean tech and renewable economy.
+- thanks for listening
