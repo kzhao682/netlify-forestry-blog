@@ -15,17 +15,28 @@ sections:
   - type: content_section
     template: content_section
     content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+      I am a data scientist and engineer with several years of experience
+      working in the energy and urban mobility industries. My core technical
+      competencies include, but are not limited to, data analytics / dashboards,
+      data warehousing, predictive modeling, time series forecasting, and
+      optimization.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      ###### 
+
+      I am currently a co-founder at TouchLight Innovations where I have
+      developed machine learning and optimization algorithms to intelligently
+      manage energy consumption to incorporate renewable energy. I developed the
+      end-to-end platform from API integration, data warehousing, and predictive
+      modeling.
+
+
+      ###### 
+
+      Previously, I was a data scientist at Gogoro Energy Network, where I
+      developed energy algorithms to support R&D of next generation Li-ion
+      battery packs and operations of the battery swapping network that
+      supported over 300,000 electric scooter users. The core energy software
+      managed over 500 MWh of energy.
 layout: advanced
 ---
