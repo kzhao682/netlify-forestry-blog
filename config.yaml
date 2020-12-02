@@ -54,7 +54,7 @@ params:
       - type: action
         template: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/k'
+        url: 'https://www.linkedin.com/in/kevinyzhao/'
         style: link
         new_window: true
     content: '&copy; Stackbit-Starter. All rights reserved.'
