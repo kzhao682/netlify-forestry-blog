@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Data Science Solutions
+    title: 'Data Science Solutions '
     subtitle: >-
       We provide end-to-end solutions from setting up data pipelines to
       extracting insights with machine learning and deep learning.
