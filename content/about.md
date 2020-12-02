@@ -27,8 +27,8 @@ sections:
       I am currently a co-founder at TouchLight Innovations where I have
       developed machine learning and optimization algorithms to intelligently
       manage energy consumption to incorporate renewable energy. I developed the
-      end-to-end platform from API integration, data warehousing, and predictive
-      modeling.
+      end-to-end platform from API integration, data warehousing, machine
+      learning, and deployment on cloud server.
 
 
       ###### 
