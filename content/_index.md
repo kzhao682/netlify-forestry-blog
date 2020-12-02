@@ -88,9 +88,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Discover how to transform your data into valuable insights
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Get in touch for a '
     actions:
       - type: action
         template: action
