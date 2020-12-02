@@ -30,9 +30,9 @@ sections:
         template: feature
         title: Energy & Sustainability
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our deep domain expertise in energy brings you reliable solutions in
+          new Li-ion battery design, solar energy forecasting, and energy
+          management.
         align: left
         image: images/feature.svg
         image_position: left
