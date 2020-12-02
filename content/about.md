@@ -26,6 +26,5 @@ sections:
     team:
       - data/team/miles-tone.json
       - data/team/eleanor-carr.json
-      - data/team/gordon-norman.json
 layout: advanced
 ---
