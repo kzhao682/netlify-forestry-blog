@@ -41,7 +41,7 @@ sections:
           deep learning, time series forecasting, anomaly detection, and
           computer vision.
         align: left
-        image: /images/artificial-intelligence.png
+        image: /images/a-2729794_1280.png
         image_position: right
         actions:
           - type: action
