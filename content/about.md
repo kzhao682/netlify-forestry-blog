@@ -27,17 +27,5 @@ sections:
       - data/team/miles-tone.json
       - data/team/eleanor-carr.json
       - data/team/gordon-norman.json
-  - type: cta_section
-    template: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - type: action
-        template: action
-        label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 layout: advanced
 ---
