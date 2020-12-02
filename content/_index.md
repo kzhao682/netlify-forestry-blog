@@ -87,7 +87,7 @@ sections:
     recent_count: 3
   - type: cta_section
     template: cta_section
-    title: This Is A CTA
+    title: 'We would love to '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
