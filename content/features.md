@@ -43,7 +43,7 @@ sections:
             style: primary
       - type: feature
         template: feature
-        title: Materials Informatics
+        title: Urban Mobility
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
