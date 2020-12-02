@@ -5,6 +5,7 @@ sections:
     template: hero_section
     title: Who We Are
     align: center
+    image: /images/IMG_6547.JPG
   - type: content_section
     template: content_section
     content: >-
