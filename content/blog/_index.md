@@ -8,7 +8,7 @@ sections:
   - type: blog_feed_section
     template: blog_feed_section
     show_recent: false
-  - title: lorem-ipsum
+  - title: First Blog Post
     content: >-
       ## Lorem ipsum
 
