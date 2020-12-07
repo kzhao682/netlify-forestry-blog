@@ -1,5 +1,5 @@
 ---
-title: ''
+title: First blog post
 date: '2020-12-02'
 categories: []
 tags: []
