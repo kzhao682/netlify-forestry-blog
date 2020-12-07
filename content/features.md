@@ -56,7 +56,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /blog
+            url: /features
             style: primary
 layout: advanced
 ---
