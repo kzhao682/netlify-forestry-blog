@@ -1,5 +1,5 @@
 ---
-title: Opportunit
+title: 'Outlook of '
 date: '2020-12-07'
 categories: []
 tags: []
