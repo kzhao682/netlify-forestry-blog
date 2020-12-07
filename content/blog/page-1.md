@@ -1,5 +1,5 @@
 ---
-title: Outlook of New Energy Sources
+title: New Horizon of Renewable Energy
 date: '2020-12-07'
 categories: []
 tags: []
