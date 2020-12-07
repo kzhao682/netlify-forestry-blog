@@ -6,13 +6,12 @@ tags: []
 excerpt: This is the first post on this website.
 layout: post
 ---
-### Energy Storage Technology
 Did not work the first time but maybe this time it will be ride through.
 
-### Electric Vehicles
+### EV becoming the new norm of automobiles
 
 
-### Micromobility
+### Micromobility makes impact in urban areas
 
 
-### Battery Technology
+### Value of battery technology
