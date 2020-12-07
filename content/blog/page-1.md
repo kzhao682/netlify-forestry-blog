@@ -1,5 +1,5 @@
 ---
-title: Outlook of Energy Indust
+title: 'Outlook of '
 date: '2020-12-07'
 categories: []
 tags: []
