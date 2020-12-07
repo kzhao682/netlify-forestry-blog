@@ -42,6 +42,7 @@ sections:
   - title: lorem-ipsum
     team:
       - data/team/person-9otoe66br.yaml
+      - data/team/person-4iz09j8to.yaml
     type: team_section
     template: team_section
 layout: advanced
