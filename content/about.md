@@ -16,29 +16,11 @@ sections:
   - type: content_section
     template: content_section
     content: >-
-      I am a data scientist and engineer with several years of experience
-      working in the energy and urban mobility industries. My core technical
-      competencies include, but are not limited to, data analytics / dashboards,
-      data warehousing, predictive modeling, time series forecasting, and
-      optimization.
-
-
-      ###### 
-
-      I am currently a co-founder at TouchLight Innovations where I have
-      developed machine learning and optimization algorithms to intelligently
-      manage energy consumption to incorporate renewable energy. I developed the
-      end-to-end platform from API integration, data warehousing, machine
-      learning, and deployment on cloud server.
-
-
-      ###### 
-
-      Previously, I was a data scientist at Gogoro Energy Network, where I
-      developed energy algorithms to support R&D of next generation Li-ion
-      battery packs and operations of the battery swapping network that
-      supported over 300,000 electric scooter users. The core energy software
-      managed over 500 MWh of energy.
+      Data is the resource that powers everything we do. With data, we are able
+      to build innovative ML/AI solutions for industries with positive social
+      impact. We believe in the potential of technology to create a more
+      renewable world and are passionate about helping businesses with similar
+      missions.
   - title: Our Team
     team:
       - data/team/dianne-ameter.json
