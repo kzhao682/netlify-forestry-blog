@@ -46,9 +46,10 @@ sections:
         template: feature
         title: Urban Mobility
         content: >-
-          Our experience working with the largest electric scooter battery
-          swapping network in the world brings optimization solutions that
-          impact user experience, operation efficiency, and business growth.
+          Our experience working with one of the largest electric scooter
+          battery swapping networks in the world brings optimization solutions
+          that impact user experience, operation efficiency, and business
+          growth.
         align: left
         image: /images/electric-scooter.png
         image_position: right
