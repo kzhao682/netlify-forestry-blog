@@ -44,6 +44,7 @@ sections:
       - data/team/person-9otoe66br.yaml
       - data/team/person-4iz09j8to.yaml
       - data/team/dianne-ameter.json
+      - data/team/dianne-ameter.json
     type: team_section
     template: team_section
 layout: advanced
