@@ -1,5 +1,5 @@
 ---
-title: 'Value of '
+title: 'Value of Energy Storage '
 date: '2020-12-07'
 categories: []
 tags: []
