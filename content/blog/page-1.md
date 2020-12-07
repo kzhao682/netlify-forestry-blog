@@ -1,5 +1,5 @@
 ---
-title: Impact of Energy Storage Technology
+title: Value of Energy Storage Technology
 date: '2020-12-07'
 categories: []
 tags: []
