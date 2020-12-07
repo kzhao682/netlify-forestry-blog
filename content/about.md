@@ -16,11 +16,28 @@ sections:
   - type: content_section
     template: content_section
     content: >-
-      Data is the resource that powers everything we do. With data, we are able
-      to build innovative ML/AI solutions for industries with positive social
-      impact. We believe in the potential of technology to create a more
-      renewable world and are passionate about helping businesses with similar
-      missions.
+      Data is at the core of everything we do. With data, we are able to power
+      ecocentric organizations to build innovative ML/AI solutions and to
+      realize their social missions. We believe in the potential of technology
+      to create a more renewable world and are passionate about helping
+      organizations excel in this mission.
+
+
+      ###### 
+
+      Our domain expertise is in the energy and urban mobility industries. We
+      have written production-level code on a wide variety of projects,
+      including solar production forecasting, anomaly detection of defected
+      batteries, and battery charging optimization. We have experience working
+      on the full production cycle, including data warehousing, predictive
+      modeling, third-party API integration, analytics dashboard, and cloud
+      technology integration.
+
+
+      ###### 
+
+      We are happy to explore opportunities to work with any organizations to
+      build data and analytical products to create higher social impact.
   - title: Our Team
     team:
       - data/team/kevin-zhao.json
