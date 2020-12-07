@@ -1,5 +1,5 @@
 ---
-title: Outlook of New Energy Resources
+title: Outlook of New Energy Sources
 date: '2020-12-07'
 categories: []
 tags: []
