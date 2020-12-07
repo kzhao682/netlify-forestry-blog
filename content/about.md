@@ -40,7 +40,8 @@ sections:
       supported over 300,000 electric scooter users. The core energy software
       managed over 500 MWh of energy.
   - title: lorem-ipsum
-    team: []
+    team:
+      - data/team/person-9otoe66br.yaml
     type: team_section
     template: team_section
 layout: advanced
