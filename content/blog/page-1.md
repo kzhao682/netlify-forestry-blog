@@ -1,5 +1,5 @@
 ---
-title: First blog post
+title: Outlook of Energy Indust
 date: '2020-12-07'
 categories: []
 tags: []
