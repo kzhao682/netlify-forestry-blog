@@ -39,7 +39,7 @@ sections:
       battery packs and operations of the battery swapping network that
       supported over 300,000 electric scooter users. The core energy software
       managed over 500 MWh of energy.
-  - title: lorem-ipsum
+  - title: Our Team
     team:
       - data/team/person-9otoe66br.yaml
       - data/team/person-4iz09j8to.yaml
