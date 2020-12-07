@@ -1,5 +1,5 @@
 ---
-title: 'Data '
+title: 'Data Science for '
 date: '2020-12-02'
 categories: []
 tags: []
