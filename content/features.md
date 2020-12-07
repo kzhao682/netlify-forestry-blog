@@ -40,7 +40,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /style-guide
+            url: /features
             style: primary
       - type: feature
         template: feature
