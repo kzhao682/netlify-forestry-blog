@@ -41,7 +41,6 @@ sections:
       managed over 500 MWh of energy.
   - title: Our Team
     team:
-      - data/team/person-9otoe66br.yaml
       - data/team/dianne-ameter.json
       - data/team/dianne-ameter.json
     type: team_section
