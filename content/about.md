@@ -3,7 +3,7 @@ title: Who We Are
 sections:
   - type: hero_section
     template: hero_section
-    title: About Me
+    title: About Us
     align: center
     actions: []
     has_background: false
