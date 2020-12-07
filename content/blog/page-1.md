@@ -1,5 +1,5 @@
 ---
-title: 'Outlook of '
+title: 'Outlook of New Energy '
 date: '2020-12-07'
 categories: []
 tags: []
