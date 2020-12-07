@@ -42,7 +42,6 @@ sections:
   - title: Our Team
     team:
       - data/team/dianne-ameter.json
-      - data/team/dianne-ameter.json
     type: team_section
     template: team_section
 layout: advanced
