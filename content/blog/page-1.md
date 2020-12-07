@@ -1,5 +1,5 @@
 ---
-title: Value of Energy Storage Technology
+title: New Opportunities with Energy Storage Technology
 date: '2020-12-07'
 categories: []
 tags: []
