@@ -24,7 +24,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /about
+            url: /features
             style: primary
       - type: feature
         template: feature
