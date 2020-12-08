@@ -25,11 +25,6 @@ New features like self-driving capabilities enabled by machine learning and AI c
 ###### 
 As more governments are pushing legistlation to ban the sales of gasoline vehicles, EV will start to shape out as the new norm of automobiles. 
 
-- Tesla and NIO stocks have increase X% over the past year
-- new materials are enabling better EV with better performance, safety, and larger range
-- ML/AI driving R&D of self-driving cars that could change the landscape of mobility
-- trend will continue with EV becoming the only automobiles that are sold
-
 ### Micromobility makes impact in urban areas
 
 The UN estimated in 2016 that 54% of the world population now live in urban areas, which typically produce the most carbon emissions. Better urban technology has the potential to reduce carbon emission via clean transportation and devise more efficient methods to get from point A to point B. The challenge is in the millions of people who live in the urban areas - traffic does not make EVs the most viable method for most people.
