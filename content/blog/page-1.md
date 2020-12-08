@@ -36,12 +36,6 @@ The micromobility sector implements the same energy storage and ML/AI technologi
 ###### 
 The flow of investments in urban mobility startups show the confidence in smaller sized transportation mediums to become an integral part of cities. They have the potential to solve a critical problem of providing cleaner and more accessible transportation to millions of people worldwide.
 
-- urban technology also benefited from improvements in energy storage and ML/AI technologies
-- microbility a different implementation of new improved technologies
-- Bird and Lime in many cities in the US and Europe
-- In Asia, companies like Gogoro have developed battery swapping network that have deployed 1900 stations all around Taiwan
-- Has potential to solve a critical problem of providing cleaner and accessible transportation to millions of peopl worldwide.
-
 ### Value of battery technology
 
 Electrochemical energy storage, like battery and fuel cells, are important for unlocking the full potential of renewable energy to be used for not only transportation but also stationary purposes. Over the past decades, scientific research has found new chemical compounds to not only improve Li-ion batteries but also explore different materials alternatives. Quantumscape and Sila Nanotechnologies are both addressing different issues with Li-ion batteries by improving the safety, longevity, and energy density. Natron Energy and EnerVenue are working on commercializing Na-ion and metal-hydride batteries as cheaper and more abundant alternatives to lithium.
@@ -49,14 +43,4 @@ Electrochemical energy storage, like battery and fuel cells, are important for u
 Much of the challenges with wide adoption of battery technology today is the high costs of production. Government subsidies will help drive costs lower and the US transition to a Biden presidency signals more resources for the clean energy sector. However, commercialization of new battery chemistries is a lengthy process that takes years of R&D and testing before implementation. Defects in production and usage in harsh environments directly affect one of the most expensive components and assets of EV companies. Addressing these problems are therefore critical to the progress of cleaner transportation.
 
 ###### 
-In recent years, ML and AI algorithms have better optimized the conditions of usage and signifcantly reduced the costs of operations and research. 
-
-
-- electrochemical storage, like battery and fuel cells, untaps the potential of renewable energy for not only transportation but also stationary usage
-- scientific research has found different chemical compounds to not only improve Li-ion batteries but also explore different materials alternatives
-- Much of the challenges with wide adoption of battery technology today
-- Government subsidies would help drive cost lower and new presidential election signals more resources for the clean energy sector
-- Development and commercialization of batteries with new chemistries is a slow process
-- Defects and inconsistency in production and aggressive usage affect the finances of companies looking to bring the products to market
-- ML and AI algorithms have better optimized the conditions of usage and significantly lowered the costs of the operations and research
-- ML/AI and new materials breakthrough have the potential to help renewable energy reach critical mass and bring widespread adoption all across the world
+In recent years, ML and AI algorithms have better optimized the conditions of battery usage and signifcantly reduced the costs of operations and research. We believe that the intersection of energy storage and ML/AI will be an important part of realizing a world that has progressed from fossil fuels to renewable resources.
