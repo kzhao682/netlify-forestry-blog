@@ -28,6 +28,14 @@ As more governments are pushing legistlation to ban the sales of gasoline vehicl
 
 ### Micromobility makes impact in urban areas
 
+The UN estimated in 2016 that 54% of the world population now live in urban areas, which typically produce the most carbon emissions. Better urban technology has the potential to reduce carbon emission via clean transportation and devise more efficient methods to get from point A to point B. The challenge is in the millions of people who live in the urban areas - traffic does not make EVs the most viable method for most people.
+
+###### 
+The micromobility sector implements the same energy storage and ML/AI technologies in a different way that better serves densely populated areas. Electric scooter sharing companies, like Bird and Lime, have expanded their service in many cities across the US and Europe. In Asia, companies like Gogoro have developed a battery swapping network for electric scooter users and have deployed over 1000 stations all around Taiwan.
+
+###### 
+The flow of investments in urban mobility startups show the confidence in smaller sized transportation mediums to become an integral part of cities. They have the potential to solve a critical problem of providing cleaner and more accessible transportation to millions of people worldwide.
+
 - urban technology also benefited from improvements in energy storage and ML/AI technologies
 - microbility a different implementation of new improved technologies
 - Bird and Lime in many cities in the US and Europe
