@@ -44,6 +44,8 @@ The flow of investments in urban mobility startups show the confidence in smalle
 
 ### Value of battery technology
 
+Electrochemical energy storage, like battery and fuel cells, are important for unlocking the full potential of renewable energy to be used for not only transportation but also stationary purposes. Over the past decades, scientific research has found new chemical compounds to not only improve Li-ion batteries but also explore different materials alternatives. Quantumscape and Sila Nanotechnologies are both addressing different issues with Li-ion batteries by improving the safety, longevity, and energy density. Natron Energy and EnerVenue are working on commercializing Na-ion and metal-hydride batteries as cheaper and more abundant alternatives to lithium.
+
 - electrochemical storage, like battery and fuel cells, untaps the potential of renewable energy for not only transportation but also stationary usage
 - scientific research has found different chemical compounds to not only improve Li-ion batteries but also explore different materials alternatives
 - Much of the challenges with wide adoption of battery technology today
