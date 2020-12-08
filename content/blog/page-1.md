@@ -3,7 +3,7 @@ title: New Opportunities with Energy Storage Technology
 date: '2020-12-07'
 categories: []
 tags: []
-excerpt: ''
+excerpt: N/A
 layout: post
 image: /images/car-3117778_640.jpg
 ---
