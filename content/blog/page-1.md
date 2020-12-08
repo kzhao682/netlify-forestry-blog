@@ -14,6 +14,13 @@ Despite these untimely series of catostrophic events, there has been signs of pr
 
 ### EV becoming the new norm of automobiles
 
+Over the past year, Tesla and NIO stocks have risen over 800% and 2000% and are accelerating the transition to electric vehicles. Improved battery technology is enabling EV companies to produce automobiles with better performance, safety, and range.
+###### 
+New features like self-driving capabilities enabled by machine learning and AI could drastically change the landscape of how people get from point A to point B. Continued development of AI algorithms and better computing power from 5G will continue to push to make driverless cars a reality.
+
+###### 
+As more governments are pushing legistlation to ban the sales of gasoline vehicles, EV will start to shape out as the new norm of automobiles. 
+
 - Tesla and NIO stocks have increase X% over the past year
 - new materials are enabling better EV with better performance, safety, and larger range
 - ML/AI driving R&D of self-driving cars that could change the landscape of mobility
