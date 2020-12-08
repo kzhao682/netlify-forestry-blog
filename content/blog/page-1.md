@@ -3,10 +3,7 @@ title: New Opportunities with Energy Storage Technology
 date: '2020-12-07'
 categories: []
 tags: []
-excerpt: >-
-  The start of the new decade has been simultaneously marked with alarming
-  signals in climate trends as well as a promising outlook for a new era of
-  renewable energy. 
+excerpt: ''
 layout: post
 image: /images/car-3117778_640.jpg
 ---
