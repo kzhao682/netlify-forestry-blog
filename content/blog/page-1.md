@@ -5,7 +5,7 @@ categories: []
 tags: []
 excerpt: This is the first post on this website.
 layout: post
-image: /images/car-3117778_1920.jpg
+image: /images/car-3117778_640.jpg
 ---
 The start of the new decade has been simultaneously marked with alarming signals in climate trends as well as a promising outlook for a new era of renewable energy. 
 ###### 
