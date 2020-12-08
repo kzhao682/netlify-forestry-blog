@@ -29,6 +29,11 @@ Despite these untimely series of catostrophic events, there has been signs of pr
 
 ### Value of battery technology
 
-- electrochemical storage, like battery and fuel cells, untaps the potential of renewable energy
+- electrochemical storage, like battery and fuel cells, untaps the potential of renewable energy for not only transportation but also stationary usage
 - scientific research has found different chemical compounds to not only improve Li-ion batteries but also explore different materials alternatives
-- 
+- Much of the challenges with wide adoption of battery technology today
+- Government subsidies would help drive cost lower and new presidential election signals more resources for the clean energy sector
+- Development and commercialization of batteries with new chemistries is a slow process
+- Defects and inconsistency in production and aggressive usage affect the finances of companies looking to bring the products to market
+- ML and AI algorithms have better optimized the conditions of usage and significantly lowered the costs of the operations and research
+- ML/AI and new materials breakthrough have the potential to help renewable energy reach critical mass and bring widespread adoption all across the world
